@@ -8,13 +8,15 @@ Dokumentace je součástí skriptu.
 ## PHP
 
 Pro tento příklad je třeba pomocí composer nainstalovat patřičné knihovny.
-Composer lze nainstalovat například pomocí [Composer](http://getcomposer.org).
+[Composer](http://getcomposer.org) lze nainstalovat například přímo z BASHe.
 Příkaz pro BASH je tedy např.
 
 ```bash
 # Install Composer
 curl -sS https://getcomposer.org/installer | php
 ```
+Samozřejmě je možné použít váš oblíbený balíčkovací systém.
+
 
 Následně stačí v kořenovém adresáři projektu napsat:
 
